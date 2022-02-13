@@ -4,7 +4,10 @@
         "vid": "0x2000",
         "sn": "1941PDN788107",
         "mac1": "021132201AE5",
-        "mac2": "021132201AE6"
+        "mac2": "021132201AE6",
+    "DiskIdxMap": "00",
+    "SataPortMap": "1",
+    "SasIdxMap": "0"
   },
   "synoinfo": {
     "maxdisks" : "16",
